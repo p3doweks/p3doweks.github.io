@@ -1,0 +1,1 @@
+import{o as n,c as r,t as a}from"./framework.2938b505.js";const p=["href"],c={__name:"CustomButton",props:{buttonName:String,buttonUrl:String},setup(t){return(o,e)=>(n(),r("a",{href:t.buttonUrl,class:"w-full xs:w-fit min-w-[180px] py-[12px] md:py-[16px] px-[20px] md:px-[28px] btn_primary paragraph_spacing"},a(t.buttonName),9,p))}};export{c as _};
