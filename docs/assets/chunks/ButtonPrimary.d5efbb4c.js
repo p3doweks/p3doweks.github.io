@@ -1,0 +1,1 @@
+import{o as r,c as a,t as n}from"./framework.0c580a32.js";const p=["href"],c={__name:"ButtonPrimary",props:{buttonName:String,buttonUrl:String},setup(t){return(e,o)=>(r(),a("a",{href:t.buttonUrl,class:"w-full xs:w-fit min-w-[180px] py-[12px] md:py-[16px] px-[20px] md:px-[28px] btn_primary paragraph_spacing"},n(t.buttonName),9,p))}};export{c as _};
