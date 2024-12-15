@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as t,a as s}from"./framework.01c23e27.js";const n={},c={viewBox:"0 0 24 24",fill:"none",xmlns:"http://www.w3.org/2000/svg"},r=s("path",{d:"M6 9L12 15L18 9","stroke-width":"2","stroke-linecap":"round","stroke-linejoin":"round"},null,-1),_=[r];function a(i,l){return e(),t("svg",c,_)}const h=o(n,[["render",a]]);export{h as S};
