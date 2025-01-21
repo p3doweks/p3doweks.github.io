@@ -1,0 +1,1 @@
+import{o as e,b as n,t as o}from"./framework.tuXvs_5t.js";const r={class:"mt-[18px] mb-[12px] text-red1 text-[16px] font-semibold leading-normal"},p={__name:"SubTitle",props:{content:{type:String,required:!0}},setup(t){return(s,a)=>(e(),n("p",r,o(t.content),1))}};export{p as _};
