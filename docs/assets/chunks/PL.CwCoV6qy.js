@@ -1,0 +1,1 @@
+const e=[{position:"Junior backend developer (Java lub PHP)",url:"/kariera/oferty-pracy/junior-backend-developer-php-java",type:"Backend",location:"Zdalnie",time:"Pełny etat"},{position:"Prestashop developer (junior lub mid)",url:"/kariera/oferty-pracy/backend-developer-prestashop",type:"Backend",location:"Zdalnie",time:"Pełny etat"}];export{e as default};
